@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Resources
+
+[Guía de ruby on rails 5 en español](https://daniel-morales.gitbook.io/guias-de-rails-espanol/fundamentos-de-active-record/1-que-es-active-record)
